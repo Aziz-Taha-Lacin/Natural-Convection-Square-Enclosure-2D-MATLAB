@@ -32,8 +32,11 @@ The solver evaluates the flow fields and temperature contours at different Rayle
 - Nusselt Number Validation: Heat transfer performance validated against benchmark literature (de Vahl Davis, 1983).
 
 <img width="821" height="751" alt="isotherms" src="https://github.com/user-attachments/assets/861aea45-1a94-4b52-b774-e754f88fba7b" />
+
 <img width="847" height="746" alt="streamlines" src="https://github.com/user-attachments/assets/ee7e14d8-2a4c-4dc5-8df5-5ec321bf4e67" />
+
 <img width="815" height="747" alt="velocity" src="https://github.com/user-attachments/assets/8bdc6094-a98b-4452-9021-64911c709255" />
+
 <img width="561" height="107" alt="benchmark" src="https://github.com/user-attachments/assets/713869f4-695d-49ab-a758-896002390fd8" />
 
 
