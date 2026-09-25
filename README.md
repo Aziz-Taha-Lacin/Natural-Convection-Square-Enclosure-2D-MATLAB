@@ -1,10 +1,10 @@
-### 2D Natural Convection in a Square Enclosure - MATLAB CFD Solver
+# 2D Natural Convection in a Square Enclosure - MATLAB CFD Solver
 
 This repository contains a 2D Incompressible Computational Fluid Dynamics (CFD) solver developed in **MATLAB** to simulate **Natural Convection in a Square Enclosure** driven by buoyancy forces. 
 
 The solver integrates the **Navier-Stokes equations** with the **Energy Equation** using the **Boussinesq Approximation**, discretized on a **Staggered Grid** via the **SIMPLE Algorithm**.
 
-# Problem Description & Physics
+### Problem Description & Physics
 
 Natural convection in a closed square cavity with differentially heated vertical walls and adiabatic horizontal walls is a classic benchmark problem in CFD and heat transfer.
 - Left Wall: Hot (T(hot))
@@ -14,7 +14,7 @@ Natural convection in a closed square cavity with differentially heated vertical
 
 The flow behavior and heat transfer rates are dictated by the dimensionless Rayleigh Number (Ra) and Prandtl Number (Pr).
 
-# Numerical Methodology
+### Numerical Methodology
 
 - Governing Equations: 2D Incompressible Navier-Stokes + Energy Equation
 - Density Coupling: Boussinesq Approximation
@@ -23,7 +23,7 @@ The flow behavior and heat transfer rates are dictated by the dimensionless Rayl
 - Discretization: Finite Volume Method (FVM) with Central Difference / Upwind schemes.
 - Heat Transfer Analysis: Local and average Nusselt Numbers (Nu) calculated along the heated wall.
 
-# Results & Visualization
+### Results & Visualization
 
 The solver evaluates the flow fields and temperature contours at different Rayleigh numbers, whereas the benchmark study is performed only for Rayleigh = 10^4.
 
