@@ -30,3 +30,6 @@ The solver evaluates the flow fields and temperature contours at different Rayle
 - Isotherms (Temperature Contours): Transition from conduction-dominated (horizontal isotherms at low Ra) to convection-dominated regimes (boundary layers and vertical stratification at high Ra).
 - Streamlines & Velocity Fields: Formation of primary central circulation cell and secondary corner vortices at elevated Rayleigh numbers.
 - Nusselt Number Validation: Heat transfer performance validated against benchmark literature (de Vahl Davis, 1983).
+
+[Isotherms]<img width="821" height="751" alt="isotherms" src="https://github.com/user-attachments/assets/861aea45-1a94-4b52-b774-e754f88fba7b" />
+
